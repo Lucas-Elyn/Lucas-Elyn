@@ -15,6 +15,9 @@ Recém-formado em Análise e Desenvolvimento de Sistemas, estou em busca da minh
 </div>
 
 ---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-e-/ )
+
 <!--
 **Lucas-Elyn/Lucas-Elyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
